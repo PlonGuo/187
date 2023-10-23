@@ -1,3 +1,5 @@
 I'm Jason!
 I like CS!
 I'm so busy!
+I don't like CS！
+I'm not busy!
